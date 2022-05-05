@@ -216,13 +216,13 @@ section {
 
 .btn-brand {
     border-color: var(--brand);
-    background-color: var(--brand);
+    background-color: #d64022!important;
     color: #fff;
 }
 
 .btn-brand:hover {
-    background-color: #d64022;
-    border-color: #d64022;
+    background-color: rgb(255, 104, 3)!important;
+    border-color: #d64022!important;
     color: #fff;
 }
 
@@ -432,6 +432,14 @@ text-align: center;}
 .me{
     border-radius:50%;
 
+}
+.dill{
+   
+    display: flex;
+    justify-content: space-between;
+    
+   
+   
 }
 
 .review small {
